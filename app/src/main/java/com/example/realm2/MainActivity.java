@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
                 //.equalTo("Name",text)
                 .findAllAsync();
 
-        adapter.add(result.);
+        adapter.add(result.asas);
         editText.getText().clear();
     }
 
